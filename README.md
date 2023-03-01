@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yadah Ngolo
 - 👀 I’m interested in Electronics and Embedded Systems.
-- 🌱 I’m currently programming in C++ for Arduino, Python and Java.
+- 🌱 I’m currently programming in C++ for Arduino, Python, Javascript and Java.
 - 💞️ I’m looking to collaborate on any Arduino projects for beginners, intermediate or expert.
 - 📫 How to reach me : yadngl3@gmail.com 
 
